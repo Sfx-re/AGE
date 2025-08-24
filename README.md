@@ -1,40 +1,61 @@
-g# O3DE (Open 3D Engine)
+![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
 
-O3DE (Open 3D Engine) is an open-source, real-time, multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
+## 🎥 Subscribe to My YouTube Channel
+# ⚠️ Nage Engine – Private Game Engine
 
-## Contribute
-For information about contributing to Open 3D Engine, visit [https://o3de.org/docs/contributing/](https://o3de.org/docs/contributing/).
+**Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**  
 
-## Roadmap
-For information about upcoming work and features, please visit [https://o3de.org/roadmap](https://o3de.org/roadmap). Progress against the roadmap is tracked [here](https://github.com/orgs/o3de/projects/56/views/2).
+**NOTICE:** Unauthorized use, modification, distribution, or sharing of this engine, its source code, assets, or branding is strictly prohibited and may result in legal action under Zambian copyright law.
 
-## Download and Install
+---
 
-This repository uses Git LFS for storing large binary files.  
+## Overview
 
-Verify you have Git LFS installed by running the following command to print the version number.
-```
-git lfs --version 
-```
+Nage Engine is a **fully proprietary custom game engine** developed and maintained by DJsiita Studios.  
+It is intended **exclusively for internal use** by our development team. This engine combines advanced systems, custom tools, and gameplay mechanics tailored for our projects.  
 
-If Git LFS is not installed, download and run the installer from: [https://git-lfs.github.com/](https://git-lfs.github.com/).
+This engine is **not open-source**. Any use, redistribution, modification, or reverse engineering without explicit written permission from DJsiita Studios is strictly forbidden.
 
-### Install Git LFS hooks 
-```
-git lfs install
-```
+---
 
+## Features
 
-### Clone the repository 
+- **Core Engine Systems** – Fully customized rendering, physics, and scripting pipelines.  
+- **Gameplay Mechanics** – Proprietary AI, animation, and game logic systems.  
+- **Development Tools** – Build pipelines, configuration systems, and deployment tools for internal use only.  
+- **Branding & Assets** – All logos, UI/UX elements, and engine identifiers are **protected intellectual property** of DJsiita Studios.  
 
-```shell
-git clone https://github.com/o3de/o3de.git
-```
+---
 
-## Building the Engine
+## License
 
-### Build requirements and redistributables
+This engine is governed by the **Nage Engine – Private Game Engine License, Version 1.0 (August 24, 2025)**.  
+All modifications, enhancements, and new systems created by DJsiita Studios are **proprietary and restricted**.  
 
+- **Full license details:** See `LICENSE.txt` file  
+- **Governing law:** Zambia  
+
+---
+
+## Disclaimer
+
+- This engine is intended for **internal studio use only**.  
+- **No individual or third party** is authorized to access, distribute, or modify this engine in any form.  
+- Unauthorized use, sharing, or redistribution will be treated as a **copyright infringement**.  
+
+---
+
+## Contact
+
+For inquiries regarding licensing, internal use, or collaborations, contact:
+
+**DJsiita Studios / Elijah Siita (VidllQ Authority)**  
+Email: legalvidllq@gmail.com  
+Website: [your website here]
+
+Check out my YouTube channel for videos, tutorials, and updates related to game development and Nage Engine:
+
+[**Subscribe to VidllQ on YouTube**](https://www.youtube.com/@Mrsiita)
 For the latest details and system requirements, refer to [System Requirements](https://o3de.org/docs/welcome-guide/requirements/) in the documentation.
 
 #### Windows
