@@ -1,7 +1,7 @@
 ![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
 
 ## 🎥 Subscribe to My YouTube Channel
-# ⚠️ Nage Engine – Private Game Engine
+# ⚠️ zage engine – Private Game Engine
 
 **Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**  
 
