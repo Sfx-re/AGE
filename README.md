@@ -1,7 +1,7 @@
-![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
+EngineginePrivate / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
 
 ## 🎥 Subscribe to My YouTube Channel
-# ⚠️ zage engine – Private Game Engine
+# ⚠️ AGE engine – Private Game Engine
 
 **Copyright (c) 2025 SitizenFX (Elijah Siita / VidllQ Authority)**  
 
