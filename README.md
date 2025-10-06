@@ -3,7 +3,7 @@ EngineginePrivate / Proprietary](https://img.shields.io/badge/License-Proprietar
 ## 🎥 Subscribe to My YouTube Channel
 # ⚠️ AGE engine – Private Game Engine
 
-**Copyright (c) 2025 SitizenFX (Elijah Siita / VidllQ Authority)**  
+**Copyright (c) 2025 SitizenFX (Elijah Siita / VidllQ Authority)  
 
 **NOTICE:** Unauthorized use, modification, distribution, or sharing of this engine, its source code, assets, or branding is strictly prohibited and may result in legal action under Zambian copyright law.
 
